@@ -1,0 +1,14 @@
+{
+  "name": "add-strings",
+  "version": "1.0.0",
+  "description": "algorithm that adds two integer strings together",
+  "main": "as.js",
+  "scripts": {
+    "test": "mocha as.test.js"
+  },
+  "author": "isb",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.2.0"
+  }
+}
