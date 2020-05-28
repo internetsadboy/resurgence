@@ -1,0 +1,14 @@
+{
+  "name": "repeated-string",
+  "version": "1.0.0",
+  "description": "count number of a in an indefinite string",
+  "main": "rs.js",
+  "scripts": {
+    "test": "mocha rs.test.js"
+  },
+  "author": "isb",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.2.0"
+  }
+}
